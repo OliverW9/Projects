@@ -23,7 +23,7 @@ Right now, I'm focused on improving my programming skills, building more project
 
 ## Stock Price Prediction Using Support Vector Regression
 
-###Dependencies
+### Dependencies
 
 The required Python packages are listed in requirements.txt.
 
