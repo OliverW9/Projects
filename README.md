@@ -23,7 +23,7 @@ Right now, I'm focused on improving my programming skills, building more project
 
 ## Stock Price Prediction Using Support Vector Regression
 
-Dependencies
+###Dependencies
 
 The required Python packages are listed in requirements.txt.
 
@@ -31,8 +31,8 @@ They can be installed using:
 
 pip install -r requirements.txt
 
-The main dependencies are:
+###The main dependencies are:
 
-numpy
-scikit-learn
-matplotlib
+* numpy
+* scikit-learn
+* matplotlib
